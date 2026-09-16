@@ -26,7 +26,7 @@ The badges are intended as **provenance and attribution indicators**. They provi
 
 The appropriate badge should be selected according to the actual development or authorship process of the individual project, document, repository, post, or other material.
 
-### **Made by AI / LLM — Human Reviewed**
+### **Made by AI / LLM - Human Reviewed**
 
 <img width="909" height="90" alt="ai-made-human-reviewed--light-3x" src="https://github.com/user-attachments/assets/2efe430b-9b30-430c-8350-a5a2e222c6ba" />
 
@@ -39,7 +39,7 @@ This badge is appropriate when AI/LLM is the primary producer of the material wh
 
 ---
 
-### **Made by Human — AI / LLM Reviewed**
+### **Made by Human - AI / LLM Reviewed**
 
 <img width="909" height="90" alt="human-made-ai-reviewed--light-3x" src="https://github.com/user-attachments/assets/0d41f365-b451-4877-93a7-e97531429708" />
 
@@ -96,11 +96,11 @@ The badge selected for a project should reflect the relationship between the hum
 
 The badge system uses a consistent visual language:
 
-* **Circle** — AI / LLM
-* **Square** — Human
-* **Outline symbol** — Intended audience
-* **Left segment** — Origin of the work
-* **Right segment** — Relationship of AI/LLM to the work
+* **Circle** - AI / LLM
+* **Square** - Human
+* **Outline symbol** - Intended audience
+* **Left segment** - Origin of the work
+* **Right segment** - Relationship of AI/LLM to the work
 
 The left portion identifies **who or what produced the work**, while the right portion communicates the corresponding **AI/LLM relationship**.
 
